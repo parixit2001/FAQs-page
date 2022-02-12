@@ -19,5 +19,9 @@ This is a FAQs(Frequently Asked Question) page in which the admin can add FAQs a
 - CSS
 - JavaScript
 
-## screenshots
+## Screenshots
 
+![Screenshot (2)](https://user-images.githubusercontent.com/73827493/153703607-21530034-a2de-491d-9bb7-7af16ff559ea.png)
+
+## References
+- https://unsplash.com/
