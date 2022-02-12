@@ -25,3 +25,7 @@ This is a FAQs(Frequently Asked Question) page in which the admin can add FAQs a
 
 ## References
 - https://unsplash.com/
+- https://www.youtube.com/
+
+## Project Link
+- https://parixit2001.github.io/FAQs-page/Index.html
